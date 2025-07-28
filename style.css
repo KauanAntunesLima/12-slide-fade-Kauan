@@ -36,16 +36,16 @@ body{
 
 @keyframes slider {
     0%, 33% {
-        background-image: url(./img/olhos-gato.jpg);
-        --text-description: "Olhos de gato!"
+        background-image: url(./img/banheiro.jpeg);
+        --text-description: "Conversar no banheiro com os amigos!"
     }
     34%, 66% {
-        background-image: url(./img/olhos-cachorro.jpg);
-        --text-description: "Olhos de cachorro!"
+        background-image: url(./img/catraca.jpeg);
+        --text-description: "O momento de chegar e sair!"
     }
     67%, 100% {
-        background-image: url(./img/olhos-aguia.jpg);
-        --text-description: "Olhos de aguia!"
+        background-image: url(./img/ping-pong.jpeg);
+        --text-description: "Jogar Ping Pong no intervalo!"
     }
 }
 @keyframes fade {
